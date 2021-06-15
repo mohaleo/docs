@@ -68,7 +68,7 @@ title: Commands
     - **Aliases:** `fs`, `fskip`
     - **Note:** `DJ` role/`Manage Channels` permission required.
 ---
-- **`!pause`** - Pauses the current playing track.
+- **`!stfu`** - Pauses the current playing track.
     - **Alias:** `stop`
 ---
 - **`!resume`** - Resumes paused music.
